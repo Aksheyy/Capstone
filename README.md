@@ -6,11 +6,17 @@ A smart AI-powered educational chatbot designed specifically for 8th-grade histo
 **
 
 🤖 AI Chatbot: Responds to history-related questions from the first two lessons of the 8th-grade textbook.
+
 🔢 OCR Integration: Converts textbook pages (PDF/images) to text using Tesseract OCR.
+
 🤮 NLP Pipeline: Preprocessing includes stop word removal, stemming, lemmatization, and TF-IDF-based matching.
+
 ⚡ Keyword Detection: Direct keyword support for fast access to facts (e.g., "1857", "Sir William Jones").
+
 📂 Structured Dataset: All Q&A pairs are stored in a CSV format for easy maintenance and scalability.
+
 🎓 Student-Centric: Designed to enhance textbook comprehension in an interactive format.
+
 
 **🚀 How It Works
 
