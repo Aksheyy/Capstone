@@ -1,8 +1,10 @@
 **🧠 8th Standard History Chatbot**
 A smart AI-powered educational chatbot designed specifically for 8th-grade history students. This project utilizes OCR and NLP techniques to extract questions and answers from textbook content, enabling students to interact with their curriculum in a conversational and engaging way.
 **
+
 📚 Features
 **
+
 🤖 AI Chatbot: Responds to history-related questions from the first two lessons of the 8th-grade textbook.
 🔢 OCR Integration: Converts textbook pages (PDF/images) to text using Tesseract OCR.
 🤮 NLP Pipeline: Preprocessing includes stop word removal, stemming, lemmatization, and TF-IDF-based matching.
